@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "sailing!!",
+  "base_artist": "yosugala",
+  "createdAt": "2026-01-02T10:27:32.621400Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Smooth Sailing",
+      "artist": "Old Dominion",
+      "has_synced": true,
+      "path": "select/01_Smooth_Sailing_Old_Dominion.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "He Is Sailing",
+      "artist": "Jon & Vangelis",
+      "has_synced": false,
+      "path": "select/02_He_Is_Sailing_Jon_&_Vangelis.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "He Is Sailing (edited version)",
+      "artist": "Jon & Vangelis",
+      "has_synced": false,
+      "path": "select/03_He_Is_Sailing_(edited_version)_Jon_&_Vangelis.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sailing",
+      "artist": "Sutherland Brothers",
+      "has_synced": true,
+      "path": "select/04_Sailing_Sutherland_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sailing",
+      "artist": "The Sutherland Bros Band",
+      "has_synced": true,
+      "path": "select/05_Sailing_The_Sutherland_Bros_Band.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sailing Away",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/06_Sailing_Away_Travis.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Thousands Are Sailing",
+      "artist": "The Pogues",
+      "has_synced": true,
+      "path": "select/07_Thousands_Are_Sailing_The_Pogues.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sailing Shoes",
+      "artist": "Robert Palmer",
+      "has_synced": true,
+      "path": "select/08_Sailing_Shoes_Robert_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sail (Borgore Pop The Sweating I'm Sailing Remix)",
+      "artist": "AWOLNATION",
+      "has_synced": false,
+      "path": "select/09_Sail_(Borgore_Pop_The_Sweating_I'm_Sailing_Remix)_AWOLNATION.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sailing to Nowhere",
+      "artist": "Broken Bells",
+      "has_synced": true,
+      "path": "select/10_Sailing_to_Nowhere_Broken_Bells.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Forever (Sailing)",
+      "artist": "Snail Mail",
+      "has_synced": true,
+      "path": "select/11_Forever_(Sailing)_Snail_Mail.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sailing",
+      "artist": "Deerhunter",
+      "has_synced": true,
+      "path": "select/12_Sailing_Deerhunter.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sailing On The Tide",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/13_Sailing_On_The_Tide_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sailing on the Tide",
+      "artist": "Carpenters",
+      "has_synced": false,
+      "path": "select/14_Sailing_on_the_Tide_Carpenters.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sailing Down The Tears",
+      "artist": "Hanoi Rocks",
+      "has_synced": true,
+      "path": "select/15_Sailing_Down_The_Tears_Hanoi_Rocks.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sailing On the Seven Seas",
+      "artist": "Orchestral Manoeuvres In the Dark",
+      "has_synced": true,
+      "path": "select/16_Sailing_On_the_Seven_Seas_Orchestral_Manoeuvres_In_the_Dark.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sailing On The Seven Seas",
+      "artist": "Orchestral Manoeuvres in the Dark",
+      "has_synced": true,
+      "path": "select/17_Sailing_On_The_Seven_Seas_Orchestral_Manoeuvres_in_the_Dark.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "sailing!!",
+      "artist": "yosugala",
+      "has_synced": false,
+      "path": "select/pl_01_sailing!!_yosugala.txt"
+    }
+  ]
+}
